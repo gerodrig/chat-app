@@ -16,7 +16,7 @@ class LoginPage extends StatelessWidget {
             height: MediaQuery.of(context).size.height * 0.9,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: <Widget>[const Logo(title: 'Messenger'), _Form()],
+              children: <Widget>[const Logo(title: 'Messenger`'), _Form()],
             ),
           ),
         ),
